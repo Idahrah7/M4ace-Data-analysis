@@ -85,11 +85,10 @@
 --(1010,null,'Gaston','Female',46)
 
 --SELECT *
---from EmployeeDemographics2
+--from EmployeeDemographics2S
 --union
 --select*
 --from  WarehouseEmployeeDemographics
-
 
 --SELECT *
 --from EmployeeDemographics2
@@ -163,4 +162,5 @@
 
 --delete from EmployeeDemographics2
 --where employeeid=1223
-
+SELECT *
+FROM EmployeeDemographics2
